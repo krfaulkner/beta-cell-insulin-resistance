@@ -1,4 +1,4 @@
-% for plotting
+% for plotting solutions
 
 limsx=[-0.1 4];
 limsy=[10 120];
